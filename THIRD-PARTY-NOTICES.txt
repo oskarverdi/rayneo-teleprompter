@@ -1,0 +1,15 @@
+Vosk speech recognition engine 0.3.47
+Copyright Alpha Cephei Inc. Licensed under Apache License 2.0.
+https://github.com/alphacep/vosk-api
+
+vosk-model-small-ru-0.22
+Published by Alpha Cephei. Apache License 2.0.
+https://alphacephei.com/vosk/models
+
+JNA 5.13.0
+JNA is dual licensed under LGPL 2.1 or Apache License 2.0.
+This distribution uses the Apache License 2.0 option.
+https://github.com/java-native-access/jna
+
+The Apache License 2.0 text is included in VOSK-APACHE-2.0.txt.
+RayNeo Mercury SDK and AndroidX dependencies retain their respective licenses.
